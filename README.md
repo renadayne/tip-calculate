@@ -1,2 +1,3 @@
 # TipCalculate
-test
+kotlin app android
+
